@@ -1,0 +1,27 @@
+
+####################
+##   Python 3.x  ###
+####################
+
+##first run pip to install the module
+
+pip install -r requirements.txt
+
+
+## next run this to create database
+python3 scrap/script/create_database.py
+
+
+## next migrate the server
+
+python3 manage.py makemigrations
+python3 manage.py migrate
+
+
+##lastly run the server
+
+python3 manage.py runserver
+
+
+
+If you have a request to add something, dont hesitate to pull a request...

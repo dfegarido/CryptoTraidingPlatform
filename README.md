@@ -1,2 +1,0 @@
-# CryptoTraidingPlatform
-Platform for Cryptocurrency
