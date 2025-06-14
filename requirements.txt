@@ -1,5 +1,0 @@
-pandas==0.21.1
-requests==2.18.1
-Django==1.11.3
-beautifulsoup4==4.6.0
-mysqlclient
